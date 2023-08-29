@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./programs/solana-crowdfunding-platform/Cargo.toml"
+  ]
+}
